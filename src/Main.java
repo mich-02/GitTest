@@ -5,7 +5,7 @@ public class Main {
 		
 		System.out.println("fuck off");
 		System.out.println("fuck off two times");
-		
+		System.out.println("fuck off three times");
 	}
 
 }
